@@ -5,3 +5,6 @@ a simple family tree maker to managing risk of genetic disorders.
 
 구현 : p5.js
 
+참고자료 :
+https://www.ncbi.nlm.nih.gov/books/NBK132175/ - 유전질환 가계도 그리는 법
+
